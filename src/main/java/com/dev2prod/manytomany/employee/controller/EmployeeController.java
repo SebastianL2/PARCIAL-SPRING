@@ -33,7 +33,7 @@ public class EmployeeController {
         return new ResponseEntity(HttpStatus.OK);
     }
 
-    @PutMapping("/{empId}/project/{projectId}")
+    @PutMapping("/{empId}/evento/{projectId}")
     public Employee assignProjectToEmployee(
             @PathVariable Long empId,
             @PathVariable Long projectId
