@@ -9,7 +9,8 @@
 ## Peticiones HTTP (postman)
 PETICION DE RELACION MUCHOS A MUCHOS Asignar a un participante un EVENTO!!👇🏻👇🏻
 ```bash
-METHOD  POST  :  http://localhost:8081/participante/5/evento/1
+METHOD  POST  : http://localhost:8081/participante/{idParticipante}/evento/{idEvento]
+EJ: http://localhost:8081/participante/5/evento/1
 
 BODY: 
 {
