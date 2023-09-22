@@ -52,4 +52,6 @@ Peticion para mostrar eventos 👇🏻
 ```bash
 METHOD  GET : /evento/getEvento
 ```
-Persistencia En la nube COn supa base
+Persistencia En la nube Con supa base
+[https://github.com/SebastianL2/PARCIAL-SPRING/blob/main/cood.PNG](https://github.com/SebastianL2/PARCIAL-SPRING/blob/main/cood.PNG)https://github.com/SebastianL2/PARCIAL-SPRING/blob/main/cood.PNG
+
