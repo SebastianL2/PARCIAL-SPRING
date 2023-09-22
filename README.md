@@ -24,7 +24,8 @@ BODY:
     ]
 }
 ```
-
+De esa forma quedan asignados los projectos a los cuales asistiran - yasea eventos organizados (seminario, congreso)
+y al hacer la consulta de los participantes saldran sus projecto asignados a los que asistiran
 Peticion para guardaar participante👇🏻
 
 ```bash
