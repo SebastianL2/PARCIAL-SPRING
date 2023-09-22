@@ -10,7 +10,7 @@
 Peticion para guardaar participante👇🏻
 
 ```bash
-METHOD -> POST  :  /participante/save
+METHOD  POST  :  /participante/save
 {
 	"empName": "Sebatian Cely"
 }
@@ -18,12 +18,12 @@ METHOD -> POST  :  /participante/save
 ```
 Peticion para mostrar participantes  en este caso quedo ge erro de redadcion pero es tal como esta👇🏻
 ```bash
-METHOD -> GET : /participante/geParticipante
+METHOD GET : /participante/geParticipante
 ```
 Peticion para guardaar evneto 👇🏻
 
 ```bash
- METHOD -> POST  :  /evento/save
+ METHOD POST  :  /evento/save
 
 {
 	"projectName": "Proyecto Investigtivo 2023"
@@ -31,5 +31,5 @@ Peticion para guardaar evneto 👇🏻
 ```
 Peticion para mostrar eventos 👇🏻
 ```bash
-METHOD -> GET : /evento/getEvento
+METHOD  GET : /evento/getEvento
 ```
