@@ -6,7 +6,24 @@
 ## Puerto de la API lolcal:
   - http://localhost:8081
 
-#### Peticiones HTTP (postman)
+## Peticiones HTTP (postman)
+PETICION DE RELACION MUCHOS A MUCHOS Asignar a un participante un EVENTO!!👇🏻👇🏻
+```bash
+METHOD  POST  :  http://localhost:8081/participante/5/evento/1
+
+BODY: 
+{
+    "empId": 5,
+    "empName": "Sebatian Cely",
+    "assignedProjects": [
+        {
+            "projectId": 1,
+            "projectName": "Convocatoria Investigacion"
+        }
+    ]
+}
+```
+
 Peticion para guardaar participante👇🏻
 
 ```bash
