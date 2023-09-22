@@ -4,7 +4,7 @@
 - [Sebastan Cely Peña]
 
 ## Puerto de la API lolcal:
-  - [http://localhost:8081]
+  - http://localhost:8081
 
 #### Peticiones HTTP (postman)
 Peticion para guardaar participante👇🏻
