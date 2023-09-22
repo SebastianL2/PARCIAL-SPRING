@@ -54,5 +54,7 @@ METHOD  GET : /evento/getEvento
 ```
 # DIAGRAMA DE CLASES 👇🏻
 ![Vistaprevia](https://github.com/SebastianL2/PARCIAL-SPRING/blob/main/DIAGRAMA.PNG)
+
+
 # Persistencia En la nube Con supa base
 ![Vistaprevia](https://github.com/SebastianL2/PARCIAL-SPRING/blob/main/cood.PNG)
