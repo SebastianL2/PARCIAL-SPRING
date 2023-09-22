@@ -52,3 +52,4 @@ Peticion para mostrar eventos 👇🏻
 ```bash
 METHOD  GET : /evento/getEvento
 ```
+Persistencia En la nube COn supa base
