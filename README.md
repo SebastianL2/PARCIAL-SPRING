@@ -9,6 +9,10 @@ Peticion para guardaar participante👇🏻
 
 ```bash
 /participante/save
+
+{
+	"projectName": "Proyecto Investigtivo 2023"
+}
 ```
 Peticion para mostrar participantes 👇🏻
 ```bash
